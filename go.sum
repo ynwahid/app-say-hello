@@ -1,0 +1,6 @@
+github.com/ynwahid/go-say-hello v1.0.0 h1:ogtIZ75AhC9Sv+bQIG760JnrOx0WqqjCW/j1XyZu46M=
+github.com/ynwahid/go-say-hello v1.0.0/go.mod h1:qTfi7Lzw1J4JdT19b5082E9qAlasV1BO3tV2yPOO6LA=
+github.com/ynwahid/go-say-hello v1.5.0 h1:4oFP+83s9M3SritO6LNiYnLFnL8ddjGiwhCOBnTX6NE=
+github.com/ynwahid/go-say-hello v1.5.0/go.mod h1:qTfi7Lzw1J4JdT19b5082E9qAlasV1BO3tV2yPOO6LA=
+github.com/ynwahid/go-say-hello/v2 v2.0.0 h1:PkiPvLNQKnJ9MNcG6qBfr2dP0SZ7AqBq/c6rSZ2OGd0=
+github.com/ynwahid/go-say-hello/v2 v2.0.0/go.mod h1:lzGlqAewvW3FIgG+5dhjboHGmkLL2BpXjuYQ5iSaNwg=
